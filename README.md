@@ -1,2 +1,2 @@
 # DNA-Matcher
-This is a fun project made by #me.
+This is a fun project made by me.
